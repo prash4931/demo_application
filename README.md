@@ -1,16 +1,15 @@
-# demo_application
+# Movies App
 
 A new Flutter project.
 
-## Getting Started
+#Snaps
 
-This project is a starting point for a Flutter application.
+Home Screen
 
-A few resources to get you started if this is your first Flutter project:
+<img align="left" width="200" src="https://user-images.githubusercontent.com/39942340/213919739-4146ba05-eab3-4122-97f9-9fe3f8eb4a52.jpeg">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Movie Details Page
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img align="left" width="200" src="https://user-images.githubusercontent.com/39942340/213919746-751465d4-2b1a-420b-b338-0b60776db23d.jpeg">
+
+<img align="left" width="200" src="https://user-images.githubusercontent.com/39942340/213919749-992d9205-faff-40d4-91d3-782356b138f6.jpeg">
